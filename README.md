@@ -1,2 +1,2 @@
 # Unity_Garage
- demonstration of draging objectы
+demonstration of draggable items
